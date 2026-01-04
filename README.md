@@ -1,5 +1,3 @@
-# Platformer-game
-
 
 # Platformer Game
 
